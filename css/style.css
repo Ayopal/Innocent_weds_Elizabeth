@@ -1,7 +1,5 @@
 /* AYOOLA PAUL */
 
-
-
 @font-face {
 	font-family: "icomoon";
 	src: url("../fonts/icomoon/icomoon.eot?srf3rx");
@@ -190,7 +188,7 @@ figure {
 }
 
 .fh5co-cover {
-	background-image: url("/img/Psalmy_2884.jpg");
+	background-image: url("/img/Psalmy_2.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	position: relative;
@@ -199,7 +197,7 @@ figure {
 
 @media screen and (max-width: 768px) {
 	.fh5co-cover {
-		background-image: url("/img/Psalmy_sm.jpg");
+		background-image: url("/img/Psalmy_2909.jpg");
 		height: inherit;
 		padding: 3em 0;
 	}
